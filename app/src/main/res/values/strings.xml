@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Quiz App</string>
+    <string name="question_1">Question 1: </string>
+    <string name="question_one_text_one">Umami</string>
+    <string name="question_one_text_two">Sweet</string>
+    <string name="question_one_text_three">Bitter</string>
+    <string name="question_one_text_four">Pickle One</string>
 </resources>
