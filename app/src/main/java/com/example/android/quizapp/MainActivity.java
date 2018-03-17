@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private void scoreQuiz() {
 
 
-        CheckBox questionOne = (CheckBox) findViewById(R.id.question_1_answer);
+        CheckBox questionOne = (CheckBox) findViewById(R.id.question_one_answer);
 
 
     }
