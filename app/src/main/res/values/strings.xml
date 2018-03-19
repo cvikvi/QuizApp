@@ -1,8 +1,26 @@
 <resources>
     <string name="app_name">Quiz App</string>
-    <string name="question_1">Question 1: </string>
-    <string name="question_one_text_one">Umami</string>
-    <string name="question_one_text_two">Sweet</string>
-    <string name="question_one_text_three">Bitter</string>
-    <string name="question_one_text_four">Pickle One</string>
+    <string name="question_one_text">Question 1: Which characters are found in the book "Great Expectations"? </string>
+    <string name="question_one_answer_one">Abel Manlich</string>
+    <string name="question_one_answer_two">Miss Havisham</string>
+    <string name="question_one_answer_three">Pip</string>
+    <string name="question_one_answer_four">Estella</string>
+    <string name="question_two_text">Question 2: The ancient city of Tenochtitlan is now found in what modern day city? </string>
+    <string name="question_two_answer_one">Mexico City</string>
+    <string name="question_two_answer_two">Santiago</string>
+    <string name="question_two_answer_three">São Paulo</string>
+    <string name="question_two_answer_four">Nezahualcóyotl</string>
+    <string name="question_three_text">Question 3: What is the last name of the main characters in the Super Mario video game series?</string>
+    <string name="question_three_answer_one">Brothers</string>
+    <string name="question_three_answer_two">Mario</string>
+    <string name="question_three_answer_three">They do not have one</string>
+    <string name="question_three_answer_four">Jumpman</string>
+
+    <string name="question_four_text">Question 4: What is 10000000000000&#8304;?</string>
+    <string name="question_four_hint">Enter the numerical answer</string>
+    <string name="gradeButton">Grade Quiz</string>
+
+    <string name="gradingText">You have You have answered %d out of %d questions correctly for a score of %d</string>
+
+
 </resources>
